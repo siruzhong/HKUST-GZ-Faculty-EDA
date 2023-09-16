@@ -110,4 +110,4 @@ These visualizations provide valuable insights into the distribution of faculty 
 
 Please make sure you have the required dependencies installed before running the scripts.
 
-**Note:** The data used in this analysis may be outdated if the HKUST-GZ Faculty Profiles website has been updated since the knowledge cutoff date in September 2021. You may need to modify the scripts to adapt to any changes in the website structure if necessary.
+**Note:** The data used in this analysis may be outdated if the HKUST-GZ Faculty Profiles website has been updated. You may need to modify the scripts to adapt to any changes in the website structure if necessary.
