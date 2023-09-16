@@ -2,8 +2,7 @@
 
 This repository contains two Python scripts, `crawl.py` and `analysis.py`, for extracting and analyzing data related to faculty members from the [HKUST-GZ Faculty Profiles](https://facultyprofiles.hkust-gz.edu.cn/) website. These scripts help you gather information about faculty members and perform exploratory data analysis on the collected data.
 
-![img.png](visualization/HKUST-GZ Faculty Profiles.png)
-
+![HKUST-GZ Faculty Profiles.png](visualization%2FHKUST-GZ%20Faculty%20Profiles.png)
 ## Contents
 
 1. [crawl.py](crawl.py)
