@@ -1,6 +1,8 @@
 # HKUST-GZ-Faculty-EDA
 
->This repository contains two Python scripts, `crawl.py` and `analysis.py`, for extracting and analyzing data related to faculty members from the [HKUST-GZ Faculty Profiles](https://facultyprofiles.hkust-gz.edu.cn/) website. These scripts help you gather information about faculty members and perform exploratory data analysis on the collected data.
+This repository contains two Python scripts, `crawl.py` and `analysis.py`, for extracting and analyzing data related to faculty members from the [HKUST-GZ Faculty Profiles](https://facultyprofiles.hkust-gz.edu.cn/) website. These scripts help you gather information about faculty members and perform exploratory data analysis on the collected data.
+
+![img.png](visualization/HKUST-GZ Faculty Profiles.png)
 
 ## Contents
 
@@ -17,7 +19,7 @@
 ## Data Columns
 
 ### [faculty_table.csv](faculty_table.csv) Data Columns:
-
+![faculty_table.png](visualization%2Ffaculty_table.png)
 1. `English Name`: English name of faculty members.
 2. `Chinese Name`: Chinese name of faculty members.
 3. `Title`: Title or position of faculty members.
@@ -30,7 +32,7 @@
 10. `More`: Detailed information links for faculty members.
 
 ### [faculty_grad_year.csv](faculty_grad_year.csv) Data Columns:
-
+![img.png](visualization/faculty_grad_year.png)
 1. `English Name`: English name of faculty members.
 2. `Chinese Name`: Chinese name of faculty members.
 3. `Graduate Year`: Year in which faculty members graduated.
